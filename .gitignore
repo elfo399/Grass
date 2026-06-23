@@ -104,3 +104,25 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+node_modules/
+dist/
+build/
+.vite/
+.next/
+.cache/
+.env
+.env.local
+.DS_Store
+Thumbs.db
+*.log
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+.vs/
+*.csproj
+*.sln
